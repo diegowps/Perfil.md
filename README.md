@@ -9,7 +9,10 @@ I did this project just for fun, to learn and share.
 Do you have any new knowledge to share with me?
 
 Skills: API REST / RANOREX / JMETER / CBOK
-
+### These are my networks
+- [ ] - [Linkedin]()
+- [ ] - [Alura](https://cursos.alura.com.br/user/diego9us)
+- [ ] - [Task]()
 - 🔭 I’m currently working on this page. 
 ![](https://github.githubassets.com/images/mona-loading-default.gif)
 
