@@ -11,7 +11,7 @@ Do you have any new knowledge to share with me?
 Skills: API REST / RANOREX / JMETER / CBOK
 
 - 🔭 I’m currently working on this page. 
-
+![](https://github.githubassets.com/images/mona-loading-default.gif)
 
 
 
