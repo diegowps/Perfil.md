@@ -10,7 +10,7 @@ Do you have any new knowledge to share with me?
 
 Skills: API REST / RANOREX / JMETER / CBOK
 ### These are my networks
-- [ ] - [Linkedin]()
+- [ ] - [Linkedin](https://www.linkedin.com/in/diego-umbelino97494643/)
 - [ ] - [Alura](https://cursos.alura.com.br/user/diego9us)
 - [ ] - [Task]()
 - 🔭 I’m currently working on this page. 
