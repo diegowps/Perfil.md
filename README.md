@@ -11,7 +11,7 @@ Cypress / Appium / Cucumber / selenium / API REST / RANOREX / JMETER /
 ### Me contate em:
 - [ ] - [Linkedin](https://www.linkedin.com/in/diego-umbelino)
 - [ ] - [Alura](https://cursos.alura.com.br/user/diego9us)
-- [ ] - [Contact email](mailto: diegopps@proton.me)
+- [ ] - [Contact email](mailto:diegopps@proton.me)
       
 O que estou fazendo agora? Olha só:
 
