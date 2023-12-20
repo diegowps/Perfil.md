@@ -1,4 +1,8 @@
-# Perfil.md
+### Olá, meu nome é Diego, sou Analista de Testes de Software (QA), atuo com sistemas de automação comercial, ERP para empresas e indústrias, varejo com soluções fiscais, financeiras e logisticas.
+
+Amo encontrar e solucionar problemas para ajudar pessoas a entregar o seu melhor projeto, acredito que a qualidade seja um dos pontos mais importantes num produto digital do inicio ao deploy em produção e me concentro na melhoria continua para fazer isso acontecer.
+
+Atualmente me concentro em ....[pause]
 
 
 ### Hi there 👋, my name is Diego
