@@ -4,9 +4,11 @@
 #### Amo encontrar e solucionar problemas para ajudar pessoas a entregar o seu melhor projeto, acredito que a qualidade seja um dos pontos mais importantes num produto digital do inicio ao deploy em produção e me concentro na melhoria continua para fazer isso acontecer.
 
 #### Atualmente meu foco é atuar com qualidade em software, estou me graduando em Análise e Desenvolvimento de Software e aprendendo mais sobre ferramentas e skills importantes para minha atuação na área.
+
 Skills: 
 CBOK / SCRUM / Kanban / ISO20000 / ITIL /
-Cypress / Appium / Cucumber / selenium / API REST / RANOREX / JMETER /
+Hard Skills:
+Cypress / Appium / Cucumber / selenium / API REST / RANOREX / JMETER / Javascript / Python / 
 
 ### Me contate em:
 - [ ] - [Linkedin](https://www.linkedin.com/in/diego-umbelino)
@@ -15,21 +17,21 @@ Cypress / Appium / Cucumber / selenium / API REST / RANOREX / JMETER /
       
 O que estou fazendo agora? Olha só:
 
-[Cypress]() com o [](), veja uma amostra clicando [aqui]()
+[Cypress](https://www.cypress.io/) com o Cypress.io Ambassador [Walmyr Lima](https://www.linkedin.com/in/walmyr-lima-e-silva-filho) e [Mario Pravato Jr](https://www.linkedin.com/in/mariopravato), veja uma amostra por [aqui]()
 
-[Playwright]() com a [](), conheça o meu repositório [aqui]()
+[Playwright](https://playwright.dev/) com a [Renata Andrade](https://github.com/raptatinha), conheça o meu repositório [aqui]()
 
-[Javascript]() na [](), você pode ver o projeto neste [link]()
+[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) / [ECMAScript](https://developer.mozilla.org/en-US/docs/Glossary/ECMAScript) na [FreeCodeCamp](https://www.freecodecamp.org/portuguese/learn/quality-assurance/quality-assurance-and-testing-with-chai/learn-how-javascript-assertions-work), você pode ver o projeto neste [link]()
 
 [Python]() em []() e [](), que tal dar uma olhada nesse [resumo]()
 
 [Lógica e resolução de problemas]() na [](), quer saber como isso pode ser útil? veja [aqui]()
 
-[MicroPython e microterminais WEMOS D1/ESP8266](), facilitador de oficinas volutário no [Educadores populares do Núcleo de tecnologia MTST]()
+[MicroPython e microterminais WEMOS D1/ESP8266](), facilitador de oficinas volutário no [Educadores populares do Núcleo de tecnologia MTST](), conheça as ações do [núcleo](https://www.youtube.com/watch?v=LBgLn4GSLjo)
 
 [Selenium]() em []()
 
-[JIRA]() integrações e resultados para times ágeis, [exemplos]()
+[JIRA]() integrações e resultados para times ágeis com Jira Software, Jira Service Management, Jira Work Management e Jira Align, flight levels, OKR, Dashboard JQL, WorkFlow Scrum [exemplos]()
 
 [Azure Devops]() e entregas continuas []().
 
@@ -45,8 +47,23 @@ O que estou fazendo agora? Olha só:
 
 [Devops, DevopsSec]()
 
+[Integração e Entrega Contínua(CI/CD)/(Jenkins, Nexus, Sonar, Projetos MAVEN)]()
 
-##############################################################################################################
+[Containers e Docker]()
+
+[AWS (EC2, RDS, S3)]()
+
+[JAVA, Java Script, Shell Script, Python, Bash, SQL]()
+
+[IaC (Infrastructure as Code)]()
+
+[Vagas QA Analytic]()
+
+
+
+
+
+###############################################################################################
 
 
 ### Hi there 👋, my name is Diego
